@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chromecast vs Ruko '
-author: [skiperes]
+author: [skiper]
 tags: ['Getting Started']
 image: img/ultimo.png
 date: '2022-05-06T23:46:37.121Z'

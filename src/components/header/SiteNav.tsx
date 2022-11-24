@@ -104,7 +104,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
               )}
             </SiteNavContent>
           </SiteNavLeft>
-          {/* <SiteNavRight>
+          {/*   <SiteNavRight>
             <SocialLinks>
               {config.facebook && (
                 <a
