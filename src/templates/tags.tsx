@@ -59,7 +59,7 @@ function Tags({ pageContext, data, location }: TagTemplateProps) {
       <Helmet>
         <html lang={config.lang} />
         <title>
-          {tag} - {config.title}
+        
         </title>
         <meta name="description" content={tagData?.node ? tagData.node.description : ''} />
         <meta property="og:site_name" content={config.title} />

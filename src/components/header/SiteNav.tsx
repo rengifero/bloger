@@ -54,15 +54,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
 
     if (!this.ticking) {
       requestAnimationFrame(this.update);
-    }
-
-    this.ticking = true;
-  };
-
-  update = () => {
-    if (!this.titleRef || !this.titleRef.current) {
-      return;
-    }
+    }ite-header-content
 
     this.lastScrollY = window.scrollY;
 
@@ -141,7 +133,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
             {config.showSubscribe && (
               <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
             )}
-          </SiteNavRight> */}
+          </SiteNavRight>    */}
         </nav>
       </>
     );

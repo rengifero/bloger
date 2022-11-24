@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Chromecast o Ruko '
-author: [skiper]
+title: 'Chromecast vs Ruko '
+author: [skiperes]
 tags: ['Getting Started']
 image: img/ultimo.png
 date: '2022-05-06T23:46:37.121Z'
@@ -31,7 +31,7 @@ Los dos dispositivos se conectan mediante HDMI
 ![Image description](https://cigars.roku.com/v1/http%3A%2F%2Fimage.roku.com%2Fw%2Frapid%2Fimages%2Fproduct-side-spotlight%2Feed62484-11cd-472d-8736-bbdd98a7154c.png)
 
 ## Roku
-Al ser compacto y potente, Roku Express sirve para que transmitas de forma fácil tu contenido favorito. Podrás disfrutar en streaming HD desde películas y series en Netflix y Prime Video hasta otras alternativas totalmente gratis como Deezer y Redbull TV. Con Roku Express, podrás disfrutas de la TV más comentada en canales gratuitos y de paga.
+Al ser compacto y potente, Roku Express sirve para que transmitas de forma fácil tu contenido favorito. Podrás disfrutar en streaming HD desde películas y series en Netflix y Prime Video hasta otras alternativas totalmente gratis como Deezer y Redbull TV. Con Roku Express, podrás disfrutas de la TV más comentada en canales gratuitos y tambien de paga.
 
 
 La diferencia es que que Ruko Express+ además de la conectividad HDMI ofrece puertos de conexión A/B compuestos. Estos es si tienes un televisor antiguo o una dispositivo portátil básico se conectaría a través de este puerto.
